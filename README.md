@@ -1,14 +1,9 @@
-# LunchBytes Slides Template
+# LunchBytes May 2022 - handy tools for git(s)
 
-This template repo contains slides for LunchBytes event curators for introducing and concluding sessions. Using these ensures that each curator is less likely to forget important information during the event and reduces the amount of work needed to get an event up and running.
+LunchBytes is a series of (roughly) monthly seminars/demos/discussions for the research software community at The University of Sheffield.
 
-## General LunchBytes Guidance
-[More general guidance about running LunchBytes events is provided in this Google doc](https://docs.google.com/document/d/1OYPCblgErEdfwwxvp7vNeaGWs-YWArow82NYVK69Xrw/edit#)
+In this edition of LunchBytes, we’ll be getting together to show off our favourite tools that help with using git and GitHub
 
-## Using this template repository
-1. At the top of this repository at <https://github.com/RSE-Sheffield/lunchbytes-slides> click on `Use this template` and select the user or organisation you'd like to create it under (see note below). Choose an appropriate repo name relating to the month of the event.
-1. Edit the `presentation.md` file, making sure to include the correct dates, speakers and other details.
-1. Go to the 'settings' tab for your repo and open 'pages', under '**source**' select `Branch: pages` `/(root)` and save.
+Think: command line tools, IDE plugins, GitHub/Lab features etc.
 
-**Note**
-If you've created your repo under a user or organisation that has github pages set up, your site will be published under the domain name of your github pages.
+If you have a git tool you’d like to let others know about - get in touch with the host at d.wilby [at] sheffield.ac.uk
