@@ -28,6 +28,13 @@ web platform for:
 * collaboration
 * hosting websites
 
+#
+[*git & Github through GitKraken Client - From Zero to Hero!*](https://srse-git-github-zero2hero.netlify.app/)
+
+* [6th/7th June](https://rse.shef.ac.uk/training/workshop/2022-06-06-git-zero-hero)
+* [26th July](https://rse.shef.ac.uk/training/workshop/2022-07-26-git-zero-hero)
+
+
 
 # Today
 
