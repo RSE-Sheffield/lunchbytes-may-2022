@@ -67,7 +67,7 @@ We'll revisit questions after all of the talks.
 
 # Demos
 
-This demo is going great!
+This demo is going super great!!
 
 
 # Q&A
