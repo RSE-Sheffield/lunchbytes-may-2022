@@ -45,10 +45,11 @@ A series of live demos of useful tools/tips for `git` and GitHub including:
 * Will Furnass - [bash git prompt](https://github.com/magicmonty/bash-git-prompt)
 * Neil Shephard - [Magit!](https://magit.vc/)
 * David Wilby - [GitHub Command Line Tool](https://github.com/cli/cli)
+* David Wilby (again) - [GitHub Suggestions](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/incorporating-feedback-in-your-pull-request)
+* David Wilby (*again*) - [GitKraken Client](https://www.gitkraken.com/)
 * Bob Turner - [VS Code](https://code.visualstudio.com/docs/editor/versioncontrol)
 * Joe Heffer -  [PyCharm](https://www.jetbrains.com/help/pycharm/using-git-integration.html)
 * Mark Dunning - [RStudio](https://www.rstudio.com/)
-* David Wilby - [GitHub Suggestions](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/incorporating-feedback-in-your-pull-request)
 * You?
 
 :::
