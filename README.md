@@ -7,3 +7,6 @@ In this edition of LunchBytes, we’ll be getting together to show off our favou
 Think: command line tools, IDE plugins, GitHub/Lab features etc.
 
 If you have a git tool you’d like to let others know about - get in touch with the host at d.wilby [at] sheffield.ac.uk
+
+
+Here's an edit that was made on a remote branch! :grin:
